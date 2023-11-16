@@ -202,7 +202,7 @@ u3_info = {
 
 u4_info = {
     'id': 'u4',
-    'position': [2.25, 2.25],
+    'position': [2.25, -2.25],
     'height': 4,
     'rotation': -90,
     'error': 0.02,
@@ -218,7 +218,7 @@ u4_info = {
 
 u5_info = {
     'id': 'u5',
-    'position': [2.25, -2.25],
+    'position': [2.25, 2.25],
     'height': 4,
     'rotation': -90,
     'error': 0.02,
